@@ -1,0 +1,42 @@
+
+
+footer {
+    background-image: url(RPS);
+    height: 25vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+  
+}
+
+table {
+    border: 2px solid black;
+    height: 75vh;
+    width: 90%;
+    text-align: center;
+
+}
+
+td {
+    border: 1px solid black;
+    font-size: 30px;
+    flex: 1;
+}
+#Computer {
+    background-color: white;
+    width: 50%;
+ 
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    margin-right: 5px;
+}
+
+.Fightbutton {
+    display: flex;
+    align-self: center;
+}
